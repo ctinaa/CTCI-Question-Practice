@@ -5,6 +5,10 @@ Check Permutation:
 	write a method to decide if one is a permutation of the other? 
 
 
+Time Complexity: 
+Space Complexity: 
+
+
 Permutation: rearrangement of elements in a set 
 	ex. dog, god, odg
 
