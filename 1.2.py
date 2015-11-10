@@ -1,5 +1,5 @@
 '''
-11.8.15
+11.9.15
 Check Permutation: 
 	Given two strings, 
 	write a method to decide if one is a permutation of the other? 
