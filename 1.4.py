@@ -12,6 +12,11 @@ EXAMPLE:
 Input: Tact Coa 
 Output: True (permutations: "taco cat", "atco cta", etc.)
 
+11.13.15
+You need to add:  
+Check if the Palindrome is even or odd - try to do this in one go
+
+Remember to ask questions
 '''
 def PalindromePerm(str1):
 	#if the string is a Palindrome 
