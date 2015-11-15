@@ -22,6 +22,6 @@ def PalindromePerm(str1):
 	else: return False
 
 print PalindromePerm("taco cat") #check if Palindrome shoud be true; right now true
-print PalindromePerm("tacocat")
+print PalindromePerm("tacocat") #prints true 
 
 
